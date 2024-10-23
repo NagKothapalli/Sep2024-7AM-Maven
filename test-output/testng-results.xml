@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Step : Launch Application]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------Test Case : Book Bus Ticket and Print ]]>
+    </line>
+    <line>
+      <![CDATA[Step : LOgin to Application]]>
+    </line>
+    <line>
+      <![CDATA[User Navigated to Home page , : D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\HomePage3033.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Book Bus Ticket]]>
+    </line>
+    <line>
+      <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\BookTicket7680.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Close Application]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------Test Case : Book Bus Ticket and Cancel ]]>
+    </line>
+    <line>
+      <![CDATA[Step : LOgin to Application]]>
+    </line>
+    <line>
+      <![CDATA[User Navigated to Home page , : D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\HomePage6919.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Book Bus Ticket]]>
+    </line>
+    <line>
+      <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\BookTicket4224.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Navigate to Cancel Ticket Page]]>
+    </line>
+    <line>
+      <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\CancelTicket6737.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Cancel Bus Ticket]]>
+    </line>
+    <line>
+      <![CDATA[Step : Close Application]]>
+    </line>
+    <line>
+      <![CDATA[--------------------------------------------------------Test Case : Book Bus Ticket and Check Status ]]>
+    </line>
+    <line>
+      <![CDATA[Step : LOgin to Application]]>
+    </line>
+    <line>
+      <![CDATA[User Navigated to Home page , : D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\HomePage5799.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Book Bus Ticket]]>
+    </line>
+    <line>
+      <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\BookTicket6822.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Navigste To Ticket Status Page]]>
+    </line>
+    <line>
+      <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\TicketStatus2540.png]]>
+    </line>
+    <line>
+      <![CDATA[Step : Check the Bus Ticket Status]]>
+    </line>
+    <line>
+      <![CDATA[Step : Close Application]]>
+    </line>
+    <line>
+      <![CDATA[Step : LOgout From Application]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-23T02:47:26Z" name="Default suite" finished-at="2024-10-23T02:48:10Z" duration-ms="44437">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T02:47:26Z" name="Default test" finished-at="2024-10-23T02:48:10Z" duration-ms="44437">
+      <class name="testSuites.TestBatches">
+        <test-method is-config="true" signature="preExecutions()[pri:0, instance:testSuites.TestBatches@d78795]" started-at="2024-10-23T02:47:26Z" name="preExecutions" finished-at="2024-10-23T02:47:31Z" duration-ms="5755" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step : Launch Application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- preExecutions -->
+        <test-method signature="runUserChoice()[pri:0, instance:testSuites.TestBatches@d78795]" started-at="2024-10-23T02:47:31Z" name="runUserChoice" finished-at="2024-10-23T02:48:10Z" duration-ms="38630" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--------------------------------------------------------Test Case : Book Bus Ticket and Print ]]>
+            </line>
+            <line>
+              <![CDATA[Step : LOgin to Application]]>
+            </line>
+            <line>
+              <![CDATA[User Navigated to Home page , : D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\HomePage3033.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Book Bus Ticket]]>
+            </line>
+            <line>
+              <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\BookTicket7680.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Close Application]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------------------------------------Test Case : Book Bus Ticket and Cancel ]]>
+            </line>
+            <line>
+              <![CDATA[Step : LOgin to Application]]>
+            </line>
+            <line>
+              <![CDATA[User Navigated to Home page , : D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\HomePage6919.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Book Bus Ticket]]>
+            </line>
+            <line>
+              <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\BookTicket4224.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Navigate to Cancel Ticket Page]]>
+            </line>
+            <line>
+              <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\CancelTicket6737.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Cancel Bus Ticket]]>
+            </line>
+            <line>
+              <![CDATA[Step : Close Application]]>
+            </line>
+            <line>
+              <![CDATA[--------------------------------------------------------Test Case : Book Bus Ticket and Check Status ]]>
+            </line>
+            <line>
+              <![CDATA[Step : LOgin to Application]]>
+            </line>
+            <line>
+              <![CDATA[User Navigated to Home page , : D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\HomePage5799.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Book Bus Ticket]]>
+            </line>
+            <line>
+              <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\BookTicket6822.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Navigste To Ticket Status Page]]>
+            </line>
+            <line>
+              <![CDATA[D:\WorkSpace\Java\Sep2024-7AM-Maven\ScreenShots\TicketStatus2540.png]]>
+            </line>
+            <line>
+              <![CDATA[Step : Check the Bus Ticket Status]]>
+            </line>
+            <line>
+              <![CDATA[Step : Close Application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runUserChoice -->
+        <test-method is-config="true" signature="postExecutions()[pri:0, instance:testSuites.TestBatches@d78795]" started-at="2024-10-23T02:48:10Z" name="postExecutions" finished-at="2024-10-23T02:48:10Z" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Step : LOgout From Application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- postExecutions -->
+      </class> <!-- testSuites.TestBatches -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
